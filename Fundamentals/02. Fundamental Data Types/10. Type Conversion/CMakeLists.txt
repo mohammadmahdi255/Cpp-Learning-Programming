@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.23)
-project(10__Type_Conversion)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(10__Type_Conversion main.cpp)
